@@ -50,7 +50,6 @@
     }
 }
 
-
 .spikes::after {
     content: '';
     position: absolute;
