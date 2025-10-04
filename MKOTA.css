@@ -44,6 +44,13 @@
     /* z-index: -100; */
 }
 
+@media (max-width: 991px) {
+    .dots {
+        display: none;
+    }
+}
+
+
 .spikes::after {
     content: '';
     position: absolute;
